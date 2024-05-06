@@ -1,0 +1,33 @@
+.cartContent{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 30px;
+}
+.cartContent > img{
+    width: 100px;
+    height: 120px;
+    text-align: center;
+}
+.cartTotal{
+    text-align: center;
+}
+.cart-message-center{
+    text-align: center;
+    margin-top: 40px;
+}
+.counter-button{
+    cursor: pointer;
+    font-weight: bold;
+    padding: 5px;
+    border: 1px solid black;
+    text-align: center;
+    cursor: pointer;
+    font-size: 15px;
+    border-radius: 12px;
+    height: 20px;
+    width: 20px;
+}
+.cart-delete-button{
+    cursor: pointer;
+}

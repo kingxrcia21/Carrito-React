@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "name": "It (Eso)",
+        "author": "Stephen King",
+        "price": 599,
+        "img":"https://m.media-amazon.com/images/I/715Hu8pUm2L._SY425_.jpg",
+        "quanty": 1
+        
+    },
+    {
+        "id": 2,
+        "name": "El Resplandor",
+        "author": "Stephen King",
+        "price": 497,
+        "img":"https://m.media-amazon.com/images/I/71uIYa2g9mL._SY425_.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 3,
+        "name": "Cementerio de animales",
+        "author": "Stephen King",
+        "price": 399,
+        "img":"https://m.media-amazon.com/images/I/717GQoOYv5L._SY425_.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 4,
+        "name": "El misterio de Salem's Lot",
+        "author": "Stephen King",
+        "price": 429,
+        "img":"https://m.media-amazon.com/images/I/51a7Ka1J2dL._SY445_SX342_.jpg",
+        "quanty": 1
+
+    },
+    {
+        "id": 5,
+        "name": "Carrie",
+        "author": "Stephen King",
+        "price": 309,
+        "img":"https://m.media-amazon.com/images/I/71PDNOpC5uL._SY425_.jpg",
+        "quanty": 1
+
+    }
+    
+    
+       
+]
